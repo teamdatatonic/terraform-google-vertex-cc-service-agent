@@ -3,7 +3,7 @@
 | Name | Version |
 |------|---------|
 | <a name="requirement_google"></a> [google](#requirement\_google) | >= 4.0.0 |
-| <a name="requirement_http"></a> [http](#requirement\_http) | >= 2.2.0 |
+| <a name="requirement_null"></a> [null](#requirement\_null) | >= 3.0.0 |
 
 ## Providers
 
